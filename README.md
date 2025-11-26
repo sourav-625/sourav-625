@@ -39,6 +39,12 @@ I am currently a student at Institute of Technical Education and Research(ITER),
 ## 💻 Programming Languages
 
 <p align="left">
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer">
         <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
     </a>
@@ -79,7 +85,7 @@ I am currently a student at Institute of Technical Education and Research(ITER),
     </a>
 </p>
 
-## 📊 Artificial Intelligence & Machine Learning
+## 📊 Data Science & Machine Learning
 
 <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer">
