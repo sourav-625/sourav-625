@@ -1,10 +1,8 @@
 # Hi 👋, I'm Sourav Pati
 
-### Application Developer, MERN Stack Web Developer, AI/ML Developer
+### An Application Developer, MERN Stack Web Developer and AI/ML Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav-625&label=Profile views&color=0e75b6&style=flat" alt="sourav-625" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sourav-625" alt="sourav-625" /></a> </p>
+I am currently a student at Institute of Technical Education and Research(ITER) ,Bhubaneswar majoring in Computer Science and Engineering. I am a MERN Stack Web Developer and Java Application Developer. I also am currently working on AI/ML with Python and learning System Design using C and C++. I look forward to Learning and Collaborating with like minded people. Follow me on X.
 
 <p align="left"> <a href="https://twitter.com/SouravPati625" target="blank"><img src="https://img.shields.io/twitter/follow/SouravPati625?logo=twitter&style=for-the-badge" alt="SouravPati625" /></a> </p>
 
@@ -12,19 +10,17 @@
 
 - 🌱 I'm currently learning **C and C++ for System designing, while honing my knowledge and skills for ML.**
 
-- 👯 I'm looking to collaborate on **My projects such as Full-body abnormality detection, OncoShield, CropScan IR **
+- 👯 I'm looking to collaborate on **My projects such as Full-body abnormality detection, OncoShield, CropScan IR**
 
-- 🤝 I'm looking for help with **learning System Design and developing scalable applications using Java and Python.**
+- 🤝 I'm currently **learning System Design and developing scalable applications using Java and Python.**
 
 - 💬 Ask me about **React, Node.js, Java, Python**
 
-- 📫 How to reach me **k0259.mpsbls@gmail.com**
+- 📫 Reach me through Email: **k0259.mpsbls@gmail.com**
 
-- ⚡ Fun fact **Back when I first started learning Web Development I used to think JavaScript is just another version of Java 🤣**
+- 👨‍💻 Check out my Portfolio **[Vercel Portfolio webapp](https://souravpatiportfolio.vercel.app/)**
 
-- 👨‍💻 All of my projects are available at **[https://souravpatiportfolio.vercel.app/](https://souravpatiportfolio.vercel.app/)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1XSGCimsnDePAkjo0V3489NzFQsvevcY1/view?usp=drive_link](https://drive.google.com/file/d/1XSGCimsnDePAkjo0V3489NzFQsvevcY1/view?usp=drive_link)**
+- 📄 And here is my Resume: **[Resume](https://drive.google.com/file/d/1XSGCimsnDePAkjo0V3489NzFQsvevcY1/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
