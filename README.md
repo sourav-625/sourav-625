@@ -26,8 +26,8 @@ I am currently a student at Institute of Technical Education and Research(ITER) 
 <p align="left">
 <a href="https://github.com/sourav-625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sourav-625" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sourav-pati-31189b307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sourav-Pati" height="30" width="40" /></a>
-<a href="https://twitter.com/SouravPati625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="SouravPati625" height="30" width="40" /></a>
-<a href="https://codechef.com/users/sourav625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="sourav625" height="30" width="40" /></a>
+<a href="https://twitter.com/SouravPati625" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="SouravPati625" height="30" width="40" /></a>
+<a href="https://codechef.com/users/sourav625" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="sourav625" height="30" width="40" /></a>
 <a href="https://hackerrank.com/k0259_mpsbls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="k0259_mpsbls" height="30" width="40" /></a>
 </p>
 
