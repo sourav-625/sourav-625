@@ -4,7 +4,7 @@
 
 <h3 align="left">About Me</h3>
 
-I am currently a student at Institute of Technical Education and Research(ITER) ,Bhubaneswar majoring in Computer Science and Engineering. I am a MERN Stack Web Developer and Java Application Developer. I also am currently working on AI/ML with Python and learning System Design using C and C++. I look forward to Learning and Collaborating with like minded people. Follow me on X.
+I am currently a student at Institute of Technical Education and Research(ITER), Bhubaneswar majoring in Computer Science and Engineering. I am a MERN Stack Web Developer and Java Application Developer. I also am currently working on AI/ML with Python and learning System Design using C and C++. I look forward to Learning and Collaborating with like minded people. Follow me on X.
 
 <p align="left"> <a href="https://twitter.com/SouravPati625" target="blank"><img src="https://img.shields.io/twitter/follow/SouravPati625?logo=twitter&style=for-the-badge" alt="SouravPati625" /></a> </p>
 
@@ -12,7 +12,7 @@ I am currently a student at Institute of Technical Education and Research(ITER) 
 
 - 🌱 I'm currently learning **C and C++ for System designing, while honing my knowledge and skills for ML.**
 
-- 👯 I'm looking to collaborate on **My projects such as Full-body abnormality detection, OncoShield, CropScan IR**
+- 👯 I'm looking to collaborate on **My projects such as [Full-body abnormality detection](https://github.com/sourav-625/ML-based-full-body-diagnosis), [OncoShield](https://github.com/sourav-625/OncoShield), [CropScan IR](https://github.com/sourav-625/CropScan)**
 
 - 🤝 I'm currently **learning System Design and developing scalable applications using Java and Python.**
 
