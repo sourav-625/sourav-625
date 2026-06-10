@@ -1,10 +1,10 @@
 # Hi 👋, I'm Sourav Pati
 
-### An Application Developer, MERN Stack Web Developer and AI/ML Developer
+### A Full-Stack Machine Learning Developer
 
 <h3 align="left">About Me</h3>
 
-I am currently a student at Institute of Technical Education and Research(ITER), Bhubaneswar majoring in Computer Science and Engineering. I am a MERN Stack Web Developer and Java Application Developer. I also am currently working on AI/ML with Python and learning System Design using C and C++. I look forward to Learning and Collaborating with like minded people. Follow me on X.
+I am currently a student at Institute of Technical Education and Research(ITER), Bhubaneswar majoring in Computer Science and Engineering. I am a Full-Stack machine learning Developer, with experience in building scalable and efficient ML models and integrating them into web applications built with modern web frameworks such Next.js. I look forward to Learning and Collaborating with like minded people. Follow me on X.
 
 <p align="left"> <a href="https://twitter.com/SouravPati625" target="blank"><img src="https://img.shields.io/twitter/follow/SouravPati625?logo=twitter&style=for-the-badge" alt="SouravPati625" /></a> </p>
 
