@@ -175,7 +175,7 @@ I'm particularly interested in opportunities involving:
 # 📫 Connect With Me
 
 * 📧 Email: **[k0259.mpsbls@gmail.com](mailto:k0259.mpsbls@gmail.com)**
-* 💼 LinkedIn: **[Sourav Pati](https://www.linkedin.com/in/sourav-pati/)**
+* 💼 LinkedIn: **[Sourav Pati](https://www.linkedin.com/in/sourav-pati-31189b307/)**
 * 🐙 GitHub: **[sourav-625](https://github.com/sourav-625)**
 * 🌐 Portfolio: **[souravpatiportfolio.vercel.app](https://souravpatiportfolio.vercel.app/)**
 * 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1XSGCimsnDePAkjo0V3489NzFQsvevcY1/view?usp=drive_link)**
