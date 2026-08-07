@@ -1,140 +1,187 @@
 # Hi 👋, I'm Sourav Pati
 
-### A Full-Stack Machine Learning Developer
+### Software Engineer | Full-Stack Developer | Machine Learning Enthusiast
 
-<h3 align="left">About Me</h3>
+I'm a Computer Science and Engineering student at the **Institute of Technical Education and Research (ITER), Bhubaneswar**, with a strong interest in software engineering, backend systems, and machine learning.
 
-I am currently a student at Institute of Technical Education and Research(ITER), Bhubaneswar majoring in Computer Science and Engineering. I am a Full-Stack machine learning Developer, with experience in building scalable and efficient ML models and integrating them into web applications built with modern web frameworks such Next.js. I look forward to Learning and Collaborating with like minded people. Follow me on X.
+I enjoy building end-to-end applications, designing modular services, working with APIs and databases, and exploring how intelligent systems can be integrated into real-world software. My current technical interests include **system design, distributed systems, backend engineering, AI/ML, and scalable application development**.
 
-<p align="left"> <a href="https://twitter.com/SouravPati625" target="blank"><img src="https://img.shields.io/twitter/follow/SouravPati625?logo=twitter&style=for-the-badge" alt="SouravPati625" /></a> </p>
+---
 
-- 🔭 I'm currently working on **A project that implements a 2-stage ML pipeline for full-body abnormality detection. This project is for helping doctors to get a breif report on abnormalities in a patient.**
+## 🚀 What I'm Working On
 
-- 🌱 I'm currently learning **C and C++ for System designing, while honing my knowledge and skills for ML.**
+* 🔭 Building software systems involving **backend services, REST APIs, machine learning, and modern web technologies**.
+* 🌱 Currently strengthening my knowledge of **system design, distributed systems, software engineering, and scalable application architecture**.
+* 🧠 Exploring **AI/ML applications, deep learning, and intelligent software systems**.
+* 👯 Interested in collaborating on **open-source projects and challenging software engineering projects**.
+* 💬 Ask me about **Java, Python, JavaScript, React, Next.js, Node.js, REST APIs, Machine Learning, and Data Structures & Algorithms**.
 
-- 👯 I'm looking to collaborate on **My projects such as [Full-body abnormality detection](https://github.com/sourav-625/ML-based-full-body-diagnosis), [OncoShield](https://github.com/sourav-625/OncoShield), [CropScan IR](https://github.com/sourav-625/CropScan)**
+---
 
-- 🤝 I'm currently **learning System Design and developing scalable applications using Java and Python.**
+## 🛠️ Technical Skills
 
-- 💬 Ask me about **React, Node.js, Java, Python**
+### 💻 Programming Languages
 
-- 📫 Reach me through Email: **k0259.mpsbls@gmail.com**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 
-- 👨‍💻 Check out my Portfolio **[Vercel Portfolio webapp](https://souravpatiportfolio.vercel.app/)**
+### ⚙️ Software Engineering
 
-- 📄 And here is my Resume: **[Resume](https://drive.google.com/file/d/1XSGCimsnDePAkjo0V3489NzFQsvevcY1/view?usp=drive_link)**
+* Object-Oriented Programming
+* Data Structures & Algorithms
+* System Design
+* Distributed Systems
+* REST APIs
+* CI/CD
+* Software Architecture
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/sourav-625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="sourav-625" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sourav-pati-31189b307/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sourav-Pati" height="30" width="40" /></a>
-<a href="https://twitter.com/SouravPati625" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="SouravPati625" height="30" width="40" /></a>
-<a href="https://codechef.com/users/sourav625" target="blank"><img align="center" src="https://cdn.codechef.com/images/cc-logo.svg" alt="sourav625" height="30" width="40" /></a>
-<a href="https://hackerrank.com/k0259_mpsbls" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="k0259_mpsbls" height="30" width="40" /></a>
-</br>
-</p>
+### 🌐 Backend & Web Development
 
-<h2 align="center">Languages and Technologies:</br></h2>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-## 💻 Programming Languages
+### 🗄️ Databases
 
-<p align="left">
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="c++" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/>
-    </a>
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
-## 🌐 Web Development & Frameworks
+* SQL
+* Data Modeling
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/>
-    </a>
-</p>
+### 🤖 AI & Machine Learning
 
-## 📊 Data Science & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-    </a>
-</p>
+* Machine Learning
+* Deep Learning
+* Multimodal Learning
+* Computer Vision
+* Signal Processing
+* Pandas
+* NumPy
+* Matplotlib
 
-## 🗃️ Databases & Cloud
+### 🧰 Tools & Platforms
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/mssql" target="_blank" rel="noreferrer">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/>
-    </a>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 
-## 🛠️ Tools & Others
+* GitHub Actions
+* VS Code
+* Docker
+* Linux
 
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer">
-        <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/>
-    </a>
-</p>
+---
+
+# 📌 Featured Projects
+
+### 🛒 Intelligent E-Commerce Recommendation Platform
+
+**Next.js · Node.js · FastAPI · Python · MongoDB · REST APIs · Apriori · Railway**
+
+A full-stack e-commerce platform with machine-learning-driven product recommendations.
+
+* Designed a modular full-stack architecture with independent frontend, backend, and recommendation services.
+* Built a **stateless FastAPI microservice** implementing the Apriori association-rule mining algorithm.
+* Generated support- and confidence-based product recommendations from transaction data.
+* Used REST APIs to connect independently developed services and enable modular deployment.
+
+---
+
+### 📈 Market Regime Radar
+
+**Next.js · Python · Hidden Markov Models · yfinance · Statistics · Matplotlib**
+
+A financial market regime analysis system using probabilistic modeling.
+
+* Developed automated data ingestion and analysis pipelines for historical market data.
+* Applied **Hidden Markov Models (HMMs)** to classify financial market regimes.
+* Built configurable analysis workflows supporting user-defined historical time ranges.
+* Developed visualizations for regime evolution, state transitions, and market behavior.
+
+---
+
+### 👁️ Face Recognition Guest Welcome System
+
+**Python · OpenCV · Computer Vision · FaceAnalysis · Windows Desktop**
+
+A real-time computer vision application for automated guest identification and personalized interaction.
+
+* Built a low-latency processing pipeline combining live data ingestion, feature extraction, classification, and confidence-based decision handling.
+* Implemented automated speech announcements and duplicate-recognition prevention.
+* Designed the system to maintain reliable real-time performance under varying facial appearances and movement conditions.
+
+---
+
+### 🧬 Multimodal Machine Learning Framework for Breast Tumor Analysis
+
+**Python · Multimodal Learning · Deep Learning · Signal Processing**
+
+An independent research project exploring heterogeneous multimodal data fusion for breast tumor detection, staging, and growth assessment.
+
+* Integrated **EIS, PAS, NIR, and Thermography** modalities.
+* Developed modality-specific feature extraction pipelines using physics-based models, wavelet-domain representations, and deep-learning architectures.
+* Proposed an attention-based fusion architecture for progressive integration of heterogeneous diagnostic information.
+
+---
+
+# 🧪 Research Interests
+
+* Machine Learning & Deep Learning
+* Multimodal Machine Learning
+* Computer Vision
+* Signal Processing
+* Intelligent Software Systems
+* Software Architecture
+* Distributed Systems
+* System Design
+
+---
+
+# 🏆 Achievements & Activities
+
+* 🧩 Solved **700+ Data Structures & Algorithms problems** across LeetCode, CodeChef, and Codeforces.
+* 🐙 Earned the **GitHub Pull Shark** badge through contributions to multiple GitHub projects using pull requests and collaborative development.
+* 🏅 Finalist in **HackNation – Nirman 4.0 (2025)**.
+* 🎤 Pitched **OncoShield** at **Founder's Arena – Elysium (2025)**, presenting its architecture, ML workflow, and engineering decisions.
+* 🏆 Finalist in **CodeOlympics – D3 Fest (2024)**.
+
+---
+
+# 🤝 Open Source & Collaboration
+
+I enjoy working with existing codebases, contributing through pull requests, learning from feedback, and collaborating with other developers.
+
+I'm particularly interested in opportunities involving:
+
+* Open-source software
+* Backend engineering
+* Full-stack development
+* Distributed systems
+* Machine learning applications
+* Developer tooling
+
+---
+
+# 📫 Connect With Me
+
+* 📧 Email: **[k0259.mpsbls@gmail.com](mailto:k0259.mpsbls@gmail.com)**
+* 💼 LinkedIn: **[Sourav Pati](https://www.linkedin.com/in/sourav-pati/)**
+* 🐙 GitHub: **[sourav-625](https://github.com/sourav-625)**
+* 🌐 Portfolio: **[souravpatiportfolio.vercel.app](https://souravpatiportfolio.vercel.app/)**
+* 📄 Resume: **[View My Resume](https://drive.google.com/file/d/1XSGCimsnDePAkjo0V3489NzFQsvevcY1/view?usp=drive_link)**
+
+---
+
+### 💡 Always learning. Always building. Always improving.
+
+I'm currently focused on becoming a stronger software engineer by building real systems, contributing to collaborative projects, and continuously strengthening my foundations in computer science and system design.
